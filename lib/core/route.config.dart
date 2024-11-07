@@ -1,7 +1,7 @@
 import 'package:go_router/go_router.dart';
-import 'package:myapp/features/authentication/presentation/pages/login.page.dart';
-import 'package:myapp/features/home/presentation/pages/home.page.dart';
-import 'package:myapp/features/splash/presentation/pages/splash.page.dart';
+import 'package:myapp/features/authentication/presentation/pages/login_page.dart';
+import 'package:myapp/features/home/presentation/pages/home_page.dart';
+import 'package:myapp/features/splash/presentation/pages/splash_page.dart';
 
 final GoRouter routeConfig = GoRouter(
   initialLocation: '/',  // Halaman pertama yang ditampilkan
